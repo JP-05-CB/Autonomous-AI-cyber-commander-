@@ -1,6 +1,3 @@
-Below is the **raw Markdown content**. Copy everything inside the block directly into your `README.md` file.
-
-```markdown
 # Autonomous AI Cyber Commander
 
 An autonomous AI-driven cybersecurity framework that detects network attacks, classifies malicious activity, dynamically deploys firewall rules, and remembers previous attacks for immediate response to recurring threats.
